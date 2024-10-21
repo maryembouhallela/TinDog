@@ -47,6 +47,9 @@ Use the download buttons to simulate downloading the app (currently redirects to
 Contributions
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 Author
 Name: Maryem Bouhallela
 Year: 2024
